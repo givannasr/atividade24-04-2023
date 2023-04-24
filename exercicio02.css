@@ -1,0 +1,17 @@
+#tudojunto{
+    display:inline-flex;
+    align-items: center;
+    padding: 3% 5% 5% 3%;
+}
+
+#result{
+    width: 15%;
+    height: 20%;
+
+}
+
+.resultado{
+    width: 15%;
+    height: 20%;
+    margin: 5px;
+}
